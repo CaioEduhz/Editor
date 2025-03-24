@@ -438,7 +438,7 @@
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "EX_EDITORBASE";
+            this.Name = "Form1";
             this.Text = "Editor Base de Texto - Aplicativo CCS";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
