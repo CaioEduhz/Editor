@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Editor
+namespace EX_EditorBase
 {
     static class Program
     {

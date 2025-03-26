@@ -13,10 +13,10 @@ using System.Security.Policy;
 
 namespace EX_EditorBase 
 {
-    public partial class EX_EDITORBASE: Form
+    public partial class Form1: Form
     {
         StreamReader leitura = null;
-        public EX_EDITORBASE()
+        public Form1()
         {
             InitializeComponent();
         }
